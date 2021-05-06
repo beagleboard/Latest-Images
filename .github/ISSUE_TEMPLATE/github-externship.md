@@ -1,4 +1,13 @@
-# Github Externship Proposal
+---
+name: Github Externship proposal
+about: Propose a project for Github Externship
+title: 'Externship: '
+labels: 'github-externship'
+assignees: 'jadonk'
+
+---
+
+# [Github Externship](https://github-externships.github.io/externship/) Proposal
 
 * Student ID: <github ID of student making proposal>
 * Mentors: <github IDs of people involved with BeagleBoard.org you think might help you>
