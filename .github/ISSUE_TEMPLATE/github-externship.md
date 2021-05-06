@@ -9,9 +9,9 @@ assignees: 'jadonk'
 
 # [Github Externship](https://github-externships.github.io/externship/) Proposal
 
-* Student ID: <github ID of student making proposal>
-* Mentors: <github IDs of people involved with BeagleBoard.org you think might help you>
-* Repository: https://github.com/<your username>/<forked repository> (add documentation with a github wiki on the same repo)
+* Student ID: `github ID of student making proposal`
+* Mentors: `github IDs of people involved with BeagleBoard.org you think might help you`
+* Repository: https://github.com/`your username`/`forked repository` (add documentation with a github wiki on the same repo)
 
 ## Status
 
@@ -22,12 +22,12 @@ Please complete the requirements listed on the [GSoC ideas page](https://bbb.io/
 
 ## About you
 
-* IRC: <IRC nickname>
-* School: <university attending>
-* Country: <geographical location>
-* Primary language (We have mentors who speak multiple languages): <Language>
-* Typical work hours (We have mentors in various time zones): <8AM-5PM US Eastern>
-* Previous externship and open source experience: <links to some of your projects>
+* IRC: `IRC nickname`
+* School: `university attending`
+* Country: `geographical location`
+* Primary language (We have mentors who speak multiple languages): `language`
+* Typical work hours (We have mentors in various time zones): `8AM-5PM US Eastern`
+* Previous externship and open source experience: `links to some of your projects`
 
 ## About your project
 
