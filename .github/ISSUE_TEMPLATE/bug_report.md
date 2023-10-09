@@ -18,6 +18,8 @@ A clear and concise description of what the bug is.
 
 **Please run this built-in script**
 ```sudo /opt/scripts/tools/version.sh```
+or
+```sudo beagle-version```
 
 **To Reproduce**
 Steps to reproduce the behavior:
