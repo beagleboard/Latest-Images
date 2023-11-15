@@ -1,3 +1,3 @@
 # Latest-Images
 
-Testing Page with Image Links: https://elinux.org/Beagleboard:Latest-images-testing
+Please use: https://git.beagleboard.org/beagleboard/Latest-Images
